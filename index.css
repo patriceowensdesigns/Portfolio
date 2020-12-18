@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to right, lightpink, rgb(170,240,209));
+}
+.jumbotron{
+    background-image: linear-gradient(to right, lightpink, rgb(170,240,209));
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3);
+    letter-spacing: 6px;
+}
+.navbar-brand{
+    /* float: left; */
+    text-align: center;
+    width: 100%;
+    background-image: linear-gradient(to right, lightpink, rgb(170,240,209));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+.projects{
+    text-align: center;
+}
+
+h2{
+
+}
+
+.container{
+    display: block;
+}
