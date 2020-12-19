@@ -23,10 +23,6 @@ h2{
     background-image: linear-gradient(to right, lightpink, rgb(170,240,209));
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-ul{
-    list-style-type: none;
-    text-align: center;
-}
 .projects{
     text-align: center;
 }
@@ -47,4 +43,7 @@ textarea {
     resize: none;
     height: 120px;
     width: 400px;
+}
+.submit{
+    justify-content: center;
 }
