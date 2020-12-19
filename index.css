@@ -6,12 +6,11 @@ body{
 }
 h1{
     text-align: center;
+    font-family: 'Langar', cursive;
 }
-
 p{
     text-align: center;
 }
-
 h2{
     text-align: center;
     color: black;
@@ -19,26 +18,33 @@ h2{
     letter-spacing: 6px;
 }
 .navbar-brand{
-    /* float: left; */
     text-align: center;
     width: 100%;
     background-image: linear-gradient(to right, lightpink, rgb(170,240,209));
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 ul{
     list-style-type: none;
     text-align: center;
 }
-
 .projects{
     text-align: center;
 }
-
-h2{
-
+.proj-card{
+    min-height: 400px;
+    width: 18rem;
 }
-
 .container{
     display: block;
+}
+.contact-form{
+    max-width: 600px;
+}
+.contact-greet {
+  text-align: center;
+}
+textarea {
+    resize: none;
+    height: 120px;
+    width: 400px;
 }
